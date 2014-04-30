@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2014-4-30: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Wed Apr 30 17:26:39 2014
+ By Edith Prakoso
+Created by Edith Prakoso with FontForge 2.0 (http://fontforge.sf.net)
+</metadata>
+<defs>
+<font id="fontcustom" horiz-adv-x="512" >
+  <font-face 
+    font-family="fontcustom"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 512 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F102"
+  />
+    <missing-glyph />
+    <glyph glyph-name="uniF101" unicode="&#xf101;" 
+d="M256 417.883l195.62 -112.941v-225.883l-195.62 -112.941l-195.62 112.941v225.883z" />
+    <glyph glyph-name="uniF102" unicode="&#xf102;" 
+d="M0 192c0 170.667 85.3333 256 256 256c170.667 0 256 -85.3333 256 -256c0 -170.667 -85.3333 -256 -256 -256c-170.667 0 -256 85.3333 -256 256zM183.262 58.8047l211.602 135.085l-211.602 135.085v-270.17z" />
+    <glyph glyph-name="uniF100" unicode="&#xf100;" 
+d="M256.512 387.584l169.824 -98.0479v-196.096l-169.824 -98.0488l-169.824 98.0488v196.096z" />
+  </font>
+</defs></svg>
